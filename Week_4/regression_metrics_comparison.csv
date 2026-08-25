@@ -1,0 +1,4 @@
+Model,MAE ($),MSE ($^2$),RMSE ($),R2 Score
+Linear Regression,7121.5,87980401.19,9379.79,0.9663
+Ridge Regression,7120.68,87962970.36,9378.86,0.9663
+Random Forest Regressor,9497.93,147095013.35,12128.27,0.9436
