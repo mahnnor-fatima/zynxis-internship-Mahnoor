@@ -1,0 +1,301 @@
+feedback_id,intern_name,week,category,feedback_text,sentiment
+1,Aisha,3,mentor,Really appreciated how my mentor explained why the tests were failing ngl,positive
+2,Fatima,3,project,"Couldn't finish database schema work because the instructions had errors in them. The design patterns project was unclear, had to figure it out on my own honestly",negative
+3,Nadia,5,overall,"This week was a mess, nobody realy followed up altho solid week, left feeling way more confident lol",negative
+4,Emeka,2,project,"Project was okay, pretty standard stuff. Project was okay, nothing out of the ordinary",neutral
+5,Zainab,7,overall,"This week was a mess, felt pretty unsupported altho this internship keeps getting better, week 6 was 💯 lol",negative
+6,Kavya,3,mentor,"Wish my mentor dug into design patterns more instead of just attended everything, did the work however, realy appreciated how my mentor unpacked the API architecture",positive
+7,Farhan,6,project,Project requirements for database schema work were poorly planned. Couldn't finish design patterns because the instructions had errors in them.,negative
+8,Arham,6,project,"Project this week was well-organized, felt like actual dev work tbh",positive
+9,Jun,7,mentor,"The mentoring session felt rough, wasted a lot of time because of it although loved getting focused time with my mentor, everything just clicked honestly",negative
+10,Carlos,2,resources,"Practice problems for the reporting tool were poorly planned, left me more confused than before.",negative
+11,Noor,8,resources,The wiki pages for the deployment process were genuinely helpful tbh,positive
+12,Sana,8,resources,The video tutorials had errors that cost me hours on the API integration,negative
+13,Fatima,5,mentor,"The mentor session was awesome, we pair programmed on a tricky bug but didn't get much out of the mentor meeting, felt pretty unsupported.",negative
+14,Hassan,8,overall,"This internship keeps getting better, week 4 was great ngl",positive
+15,Parul,1,resources,The cheat sheet saved me so much time on the reporting tool even tho the slack channel had errors that cost me hours on REST endpoints.,negative
+16,Zainab,8,resources,The documentation on the scraping script was actually super clear tbh,positive
+17,Priya,7,overall,Feeling pretty burnt out about how this week went.,negative
+18,Kira,8,mentor,Mentor guided through the API integration step by step and it finally clicked honestly,positive
+19,Wei,6,mentor,"Mentor guided through the frontend redesign step by step and it finally clicked even tho mentor seemed unclear during our call, left me more confused than before.",positive
+20,Naveen,5,mentor,"Wish my mentor dug into the testing suite more instead of just attended everything, did the work not gonna lie",negative
+21,Carlos,2,overall,"Unclear week, had to figure it out on my own honestly",negative
+22,Vera,1,mentor,"Mentor seemed pretty rough during our call, nobody really followed up even though great mentoring session, really made a difference not gonna lie",negative
+23,Chen,8,project,"Couldn't finish the recommendation engine because the API we needed was down for two days altho project this week was awesome, felt like actual dev work.",positive
+24,Qasim,1,project,"The REST endpoints project felt frustrating, had to figure it out on my own.",negative
+25,Sami,6,mentor,"Mentor cancelled three times this week, left me more confused than before.",negative
+26,Kira,3,project,Loved that the recommendation engine project let me whiteboarded the architecture together although project requirements for the recommendation engine were unclear,positive
+27,Arham,4,mentor,"Mentor cancelled three times this week, wasted a lot of time becuase of it. Wish my mentor dug into database schema work more instead of just went through the motions.",negative
+28,Hina,7,mentor,"Met with my mentor, nothing out of the ordinary. Nothing special about the mentor call this week.",neutral
+29,Davi,4,mentor,Mentor pushed through the recommendation engine step by step and it finally clicked.,positive
+30,Farhan,4,project,Struggled with the testing suite all week because the requirements kept changing. Couldn't finish design patterns because the timeline was way too tight.,negative
+31,Sana,1,project,The recommendation engine project gave me a real sense of accomplishment. Proud of what I built for the API integration this week lol,positive
+32,Wei,1,mentor,Shoutout to my mentor for staying late to help me debug.,positive
+33,Tara,3,overall,"Overall well-organized week, learned a lot about the data pipeline. Feeling really proud after this week.",positive
+34,Arham,6,mentor,"Loved getting focused time with my mentor, left feeling way more confident.",positive
+35,Tara,5,mentor,"The mentor session was awesome, we debugged a nasty edge case together. Great mentoring session, realy made a difference.",positive
+36,Riya,6,project,Proud of what I built for design patterns this week.,positive
+37,Davi,8,resources,The documentation on the scraping script was actually awesome lol,positive
+38,Greta,4,resources,"Resources this week were realy solid, learned more than I expected although recorded sessions for the CI setup were confusing, wasted a lot of time because of it.",positive
+39,Elena,5,overall,"Starting to question if this internship is worth it because the instructions had errors in them even tho solid week, felt genuinely supported tbh",positive
+40,Hina,4,mentor,Shoutout to my mentor for checking in without me asking lol,positive
+41,Vera,6,mentor,My mentor gave me really well-organized feedback on the onboarding flow tbh,positive
+42,Ali,8,mentor,"Mentor was poorly planned this week, wasted a lot of time because of it although shoutout to my mentor for checking in without me asking.",negative
+43,Rashid,4,mentor,"Great mentoring session, really made a difference.",positive
+44,Nadia,6,overall,"Week 3 was a letdown, nobody responded when I asked for help however, feeling really accomplished after this week.",negative
+45,Lina,5,overall,Starting to question if this internship is worth it becuase the instructions had errors in them ngl,negative
+46,Elena,6,resources,"The cheat sheet for the scraping script were genuinely helpful however, wish we had better reading material on the deployment process",positive
+47,Tara,8,mentor,"Mentor seemed not great during our call, wasted a lot of time becuase of it altho mentor guided through the recommendation engine step by step and it finally clicked ngl",positive
+48,Nadia,7,overall,"Poorly planned week, left me more confused than before",negative
+49,Aisha,4,overall,"Rough week, felt pretty unsupported. Starting to question if this internship is worth it because the timeline was way too tight not gonna lie",negative
+50,Leo,7,overall,"Starting to question if this internship is worth it because the API we needed was down for two days. Not a great week, left me more confused than before",negative
+51,Qasim,8,resources,"Sample code were fine for the auth module, nothing special. Recorded sessions were fine for the dashboard, nothing special ngl",neutral
+52,Isla,2,project,Couldn't finish the scraping script becuase the requirements kept changing.,negative
+53,Rashid,6,resources,"The wiki pages were okay, used some of them.",neutral
+54,Ali,4,resources,"The wiki pages were fine for the onboarding flow, nothing special. Practice problems were okay, used some of them.",neutral
+55,Waqar,1,resources,"Recorded sessions were okay, used some of them",neutral
+56,Waqar,2,project,"Couldn't finish the recommendation engine because the API we needed was down for two days even tho project this week was well-organized, felt like actual dev work.",positive
+57,Aisha,3,mentor,"Loved getting focused time with my mentor, learned more than I expected even though didn't get much out of the mentor meeting, wasted a lot of time becuase of it.",positive
+58,Aisha,4,project,Struggled with the data pipeline all week becuase the setup alone took most of the week but project scope for the scraping script felt super clear this week.,negative
+59,Wei,7,overall,"This internship keeps getting better, week 7 was great not gonna lie",positive
+60,Fatima,2,mentor,"The mentor session was super clear, we debugged a nasty edge case together altho mentor cancelled three times this week, nobody really followed up.",positive
+61,Naveen,4,project,"The database schema work project felt a letdown, wasted a lot of time because of it however, project scope for design patterns felt great this week",positive
+62,Emeka,2,overall,"Confusing week, had to figure it out on my own",negative
+63,Priya,1,overall,"Starting to question if this internship is worth it because the requirements kept changing. This week was a mess, wasted a lot of time because of it.",negative
+64,Farhan,4,project,"Really enjoyed working on the deployment process, felt genuinely supported. Database schema work project gave me a real sense of ownership.",positive
+65,Leo,4,project,Project scope for database schema work felt great this week honestly,positive
+66,Jun,4,resources,The documentation had errors that cost me hours on the frontend redesign.,negative
+67,Lina,2,mentor,"Loved getting 1-on-1 time with my mentor, felt genuinely supported. Loved getting 1-on-1 time with my mentor, everything just clicked",positive
+68,Uma,7,project,The deployment process project gave me a real sense of ownership even tho struggled with the testing suite all week becuase the timeline was way too tight.,positive
+69,Naveen,2,overall,"Good moments and some slow parts, so it balances out.",neutral
+70,Bilal,3,overall,"A letdown week, felt pretty unsupported lol",negative
+71,Leo,2,project,The onboarding flow project gave me a real sense of accomplishment,positive
+72,Elena,2,project,"REST endpoints project was neither hard nor easy, just average",neutral
+73,Rashid,8,resources,"The wiki pages were okay, used some of them lol",neutral
+74,Isla,6,mentor,"Mentor seemed pretty rough during our call, had to figure it out on my own honestly",negative
+75,Isla,3,overall,"Week 1 was rough, the timeline was way too tight.",negative
+76,Sami,1,resources,Really glad Zynxis shared documentation for the deployment process.,positive
+77,Waqar,5,project,Loved that the async/await project let me pair programmed on a tricky bug,positive
+78,Bilal,1,project,"Really enjoyed working on the frontend redesign, learned more than I expected even though couldn't finish REST endpoints becuase the setup alone took most of the week lol",positive
+79,Yasmin,4,overall,"This week was a mess, wasted a lot of time becuase of it. Week 1 was confusing, nobody responded when I asked for help",negative
+80,Olivia,7,project,Couldn't finish the CI setup because nobody responded when I asked for help.,negative
+81,Ines,1,mentor,My mentor helped me with prioritizing tasks this week,positive
+82,Noor,5,project,"The auth module project was super clear, learned more than I expected however, project requirements for the onboarding flow were pretty rough lol",positive
+83,Nadia,3,mentor,Really appreciated how my mentor unpacked the deployment steps,positive
+84,Jamal,5,resources,"Resources this week were fine, nothing memorable. Video tutorials were fine for design patterns, nothing special tbh",neutral
+85,Tariq,6,mentor,"Mentor cancelled twice this week, had to figure it out on my own however, the mentor session was excellent, we whiteboarded the architecture together honestly",positive
+86,Zainab,6,mentor,"Our's mentor session was excellent, we reviewed my PR line by line however, mentor seemed distracted the whole call and it was pretty frustrating.",positive
+87,Viktor,3,project,"Project was okay, went through the motions.",neutral
+88,Sara,4,resources,"The sample code had errors that cost me hours on REST endpoints however, the wiki pages for database schema work were genuinely fantastic.",positive
+89,Isla,5,mentor,My mentor pushed me through the tricky parts this week.,positive
+90,Bilal,5,mentor,"Our's mentor session was realy solid, we debugged a nasty edge case together.",positive
+91,Maria,4,mentor,"Great mentoring session, realy made a difference.",positive
+92,Tara,4,resources,Really glad Zynxis shared recorded sessions for the deployment process. Really glad Zynxis shared video tutorials for REST endpoints.,positive
+93,Chen,8,mentor,"Mentor session happened, attended everything, did the work.",neutral
+94,Ali,7,overall,Feeling realy energized after this week not gonna lie,positive
+95,Waqar,3,overall,"Confusing week, wasted a lot of time becuase of it. Starting to question if this internship is worth it becuase the API we needed was down for two days.",negative
+96,Bushra,8,mentor,"The mentoring session felt rough, had to figure it out on my own lol",negative
+97,Diana,8,overall,"Overall realy solid week, learned a lot about async/await.",positive
+98,Zainab,3,resources,"The slack channel were okay, used some of them.",neutral
+99,Yasmin,8,mentor,My mentor pushed me with prioritizing tasks this week.,positive
+100,Priya,7,resources,"Recorded sessions for the testing suite were disorganized, nobody realy followed up.",negative
+101,Adeel,1,resources,The wiki pages for the data pipeline were genuinely really satisfying but the sample code had errors that cost me hours on design patterns.,positive
+102,Jamal,1,project,"Project was okay, attended everything, did the work.",neutral
+103,Mina,7,mentor,"Met with my mentor, pretty standard stuff not gonna lie",neutral
+104,Riya,2,resources,"No the wiki pages were shared untill halfway through the week however, really glad Zynxis shared documentation for the onboarding flow.",positive
+105,Hassan,2,mentor,"Mentor was poorly planned this week, had to figure it out on my own",negative
+106,Tara,2,mentor,"Loved getting 1-on-1 time with my mentor, everything just clicked. Great mentoring session, learned more than I expected.",positive
+107,Faraz,3,resources,"Resources this week were fine, nothing memorable",neutral
+108,Ahsan,4,project,"Did the reporting tool project, nothing out of the ordinary",neutral
+109,Yasmin,5,project,"Project was okay, pretty standard stuff",neutral
+110,Omar,3,overall,"Week 8 was unclear, the instructions had errors in them altho overall awesome week, learned a lot about database schema work.",positive
+111,Jun,2,project,Proud of what I built for the reporting tool this week but struggled with async/await all week because the requirements kept changing,negative
+112,Yasmin,1,overall,"This internship keeps getting better, week 7 was great.",positive
+113,Liam,2,project,"Project scope for the recommendation engine felt super clear this week however, the onboarding flow project was confusing, felt pretty unsupported.",positive
+114,Maria,2,overall,"Week 1 was really solid, everything just clicked. Week 8 was surprisingly good, left feeling way more confident not gonna lie",positive
+115,Arham,8,mentor,Shoutout to my mentor for explaining things twice patiently,positive
+116,Wei,7,overall,Starting to question if this internship is worth it becuase the timeline was way too tight.,negative
+117,Zara,1,overall,"This week was a mess, had to figure it out on my own.",negative
+118,Zainab,6,project,"Did the deployment process project, no real surprises",neutral
+119,Priya,3,project,Finished the project and all my tests passed on the first try even tho struggled with async/await all week because the timeline was way too tight.,positive
+120,Ahsan,3,overall,"Some parts were great, other parts dragged, evens out to a normal week not gonna lie",neutral
+121,Jun,1,resources,"Resources this week were genuinely helpful, learned more than I expected.",positive
+122,Rashid,5,resources,The documentation for the scraping script were genuinely really solid lol,positive
+123,Meera,7,overall,"Solid week, realy made a difference although feeling pretty burnt out about how this week went",negative
+124,Qasim,6,resources,The slack channel for the auth module were genuinely helpful. Really glad Zynxis shared sample code for the frontend redesign.,positive
+125,Hina,5,project,"Session happened, project submitted, moving on.",neutral
+126,Uma,5,project,"Really enjoyed working on async/await, learned more than I expected. The API integration project gave me a real sense of real progress",positive
+127,Waqar,3,overall,"This week was a mess, left me more confused than before. Disorganized week, nobody realy followed up.",negative
+128,Vera,8,project,"The database schema work project felt poorly planned, felt pretty unsupported",negative
+129,Greta,2,resources,"Documentation were fine for the deployment process, nothing special",neutral
+130,Yasmin,8,project,Finished the project and all my tests passed on the first try.,positive
+131,Omar,6,project,Finished the project and I actually understood every line I wrote.,positive
+132,Sami,8,project,"Spent most of the week stuck on the recommendation engine before I could even start even though really enjoyed working on the recommendation engine, left feeling way more confident.",positive
+133,Usman,4,mentor,"Mentor cancelled again this week, nobody really followed up. Mentor was pretty rough this week, wasted a lot of time because of it.",negative
+134,Diana,3,overall,"Feeling realy energized after this week even though Rough week, left me more confused than before.",negative
+135,Tara,4,resources,"Really glad Zynxis shared video tutorials for the onboarding flow however, video tutorials for design patterns were confusing, had to figure it out on my own lol",positive
+136,Diana,8,project,"The scraping script project was neither hard nor easy, just average. The recommendation engine project was neither hard nor easy, just average tbh",neutral
+137,Arham,5,project,"The onboarding flow project was not great, nobody realy followed up not gonna lie",negative
+138,Noor,6,mentor,"Wish my mentor dug into the reporting tool more instead of just pretty standard stuff but great mentoring session, everything just clicked",positive
+139,Zara,6,overall,"Solid week, everything just clicked",positive
+140,Meera,3,mentor,"Didn't get much out of the mentor meeting, nobody really followed up however, my mentor pushed me with prioritizing tasks this week lol",positive
+141,Jamal,7,overall,Feeling kind of discouraged about how this week went tbh,negative
+142,Parul,7,overall,"Good moments and some slow parts, so it balances out lol",neutral
+143,Adeel,4,overall,"Solid week, learned more than I expected.",positive
+144,Carlos,1,project,"Project this week was excellent, felt like actual dev work. Project this week was realy satisfying, felt like actual dev work lol",positive
+145,Qasim,2,resources,No the wiki pages were shared untill halfway through the week. Reading material felt disorganized compared to previous weeks lol,negative
+146,Priya,3,resources,The sample code had errors that cost me hours on the data pipeline,negative
+147,Jun,2,mentor,"Met with my mentor, pretty standard stuff. Mentor session happened, nothing out of the ordinary",neutral
+148,Amara,5,project,Project scope for the recommendation engine felt surprisingly good this week lol,positive
+149,Leo,6,project,"Spent most of the week stuck on the API integration before I could even start although realy enjoyed working on the data pipeline, left feeling way more confident.",negative
+150,Yasmin,3,resources,"Resources this week were genuinely helpful, left feeling way more confident however, the video tutorials had errors that cost me hours on the auth module tbh",negative
+151,Sami,8,mentor,"Great mentoring session, learned more than I expected. Mentor helped through the data pipeline step by step and it finally clicked",positive
+152,Wei,2,overall,"Good moments and some slow parts, so it balances out. Just a typical week at the internship not gonna lie",neutral
+153,Elena,8,overall,"Feeling a bit lost about how this week went however, Really satisfying week overall, realy made a difference.",positive
+154,Diana,4,resources,The documentation on the scraping script was actually awesome even tho no recorded sessions were shared untill halfway through the week not gonna lie,positive
+155,Leo,8,overall,"This internship keeps getting better, week 8 was best even though feeling kind of discouraged about how this week went.",negative
+156,Aisha,3,resources,The sample code for the recommendation engine were genuinely awesome although wish we had better wiki pages on the dashboard.,negative
+157,Lina,8,overall,Feeling a bit lost about how this week went,negative
+158,Qasim,3,overall,Feeling really motivated after this week ngl,positive
+159,Ahsan,1,resources,The documentation on the frontend redesign was actually fantastic. The reading material for async/await were genuinely surprisingly good.,positive
+160,Sami,8,mentor,Mentor helped through the scraping script step by step and it finally clicked.,positive
+161,Emeka,1,project,Finished the project and I actually understood every line I wrote. Proud of what I built for the auth module this week lol,positive
+162,Elena,6,overall,"Feeling a bit lost about how this week went. Week 4 was poorly planned, the instructions had errors in them.",negative
+163,Riya,1,resources,"Practice problems were okay, used some of them. Video tutorials were okay, used some of them",neutral
+164,Qasim,5,mentor,Mentor supported through the recommendation engine step by step and it finally clicked lol,positive
+165,Noor,7,overall,"This week was a mess, left me more confused than before",negative
+166,Liam,6,overall,"Week 7 was normal, went through the motions.",neutral
+167,Jun,3,overall,"Disorganized week, had to figure it out on my own",negative
+168,Uma,4,resources,Wish we had better documentation on the scraping script but the cheat sheet for the dashboard were genuinely surprisingly good.,negative
+169,Fatima,3,mentor,"The mentoring session felt confusing, wasted a lot of time becuase of it.",negative
+170,Zara,1,mentor,"My mentor gave me realy great feedback on the CI setup even tho mentor was pretty rough this week, felt pretty unsupported not gonna lie",negative
+171,Zainab,3,overall,"Not a great week, nobody really followed up tbh",negative
+172,Xia,8,overall,Feeling kind of discouraged about how this week went,negative
+173,Riya,1,overall,"Great week overall, everything just clicked. Overall really solid week, learned a lot about the CI setup.",positive
+174,Ahsan,7,overall,"This internship keeps getting better, week 3 was fire altho Frustrating week, nobody realy followed up",negative
+175,Ali,3,project,"The reporting tool project felt frustrating, nobody really followed up. The recommendation engine project felt not great, felt pretty unsupported.",negative
+176,Kavya,7,project,"The deployment process project felt frustrating, nobody really followed up.",negative
+177,Isla,3,mentor,Honestly this week's's mentor is the best part of this internship.,positive
+178,Hina,3,resources,Documentation saved me so much time on the testing suite.,positive
+179,Rohan,4,project,"Really enjoyed working on the recommendation engine, learned more than I expected",positive
+180,Uma,4,resources,"Resources this week were fine, nothing memorable.",neutral
+181,Jun,1,project,"Did the dashboard project, attended everything, did the work. REST endpoints project was neither hard nor easy, just average not gonna lie",neutral
+182,Ines,2,resources,Documentation saved me so much time on the API integration.,positive
+183,Sara,3,mentor,"Didn't get much out of the mentor meeting, wasted a lot of time because of it honestly",negative
+184,Tara,4,resources,The documentation on the scraping script was actually realy satisfying. The documentation on the recommendation engine was actually surprisingly good not gonna lie,positive
+185,Priya,7,project,"Did the onboarding flow project, pretty standard stuff. The API integration project was neither hard nor easy, just average.",neutral
+186,Zainab,3,resources,Really glad Zynxis shared sample code for the recommendation engine.,positive
+187,Jamal,3,project,REST endpoints project gave me a real sense of accomplishment.,positive
+188,Sana,5,resources,"No recorded sessions were shared untill halfway through the week. Sample code for REST endpoints were unclear, nobody realy followed up not gonna lie",negative
+189,Riya,2,resources,"Resources this week were fine, nothing memorable not gonna lie",neutral
+190,Kira,3,mentor,Wish my mentor dug into the dashboard more instead of just went through the motions.,negative
+191,Rashid,5,resources,"The sample code for the auth module were genuinely well-organized. Resources this week were really satisfying, really made a difference.",positive
+192,Yasmin,7,mentor,Honestly our's mentor is the best part of this internship honestly,positive
+193,Zara,4,overall,"Not a great week, nobody really followed up not gonna lie",negative
+194,Hassan,7,mentor,"The mentoring session felt a letdown, felt pretty unsupported. Wish my mentor dug into the recommendation engine more instead of just went through the motions ngl",negative
+195,Fatima,1,overall,"This week was a mess, left me more confused than before however, overall great week, learned a lot about database schema work.",positive
+196,Zara,7,mentor,"Didn't get much out of the mentor meeting, nobody really followed up but shoutout to my mentor for staying late to help me debug lol",negative
+197,Farhan,6,project,"Session happened, project submitted, moving on. Session happened, project submitted, moving on",neutral
+198,Sara,4,resources,"The sample code had errors that cost me hours on the recommendation engine however, the slack channel for the auth module were genuinely well-organized ngl",negative
+199,Diana,7,mentor,"Met with my mentor, went through the motions. Met with my mentor, went through the motions lol",neutral
+200,Wei,6,mentor,"Mentor cancelled three times this week, wasted a lot of time because of it honestly",negative
+201,Faraz,2,overall,"This internship keeps getting better, week 8 was cool. Week 8 was excellent, left feeling way more confident.",positive
+202,Maria,1,overall,"Rough week, felt pretty unsupported even tho week 1 was excellent, felt genuinely supported.",negative
+203,Elena,8,overall,Just a typical week at the internship tbh,neutral
+204,Mina,1,overall,"Overall fantastic week, learned a lot about the API integration. Solid week, learned more than I expected.",positive
+205,Isla,7,resources,"Wish we had better documentation on the onboarding flow however, resources this week were realy solid, realy made a difference lol",negative
+206,Xia,8,resources,The cheat sheet had errors that cost me hours on the CI setup.,negative
+207,Leo,2,mentor,"Mentor walked through the CI setup step by step and it finally clicked although mentor cancelled twice this week, left me more confused than before.",negative
+208,Greta,6,overall,Feeling kind of discouraged about how this week went.,negative
+209,Ines,1,mentor,Honestly the mentor is the best part of this internship.,positive
+210,Xia,2,overall,"Just a typical week at the internship. Week 6 was balanced, nothing out of the ordinary.",neutral
+211,Zara,6,resources,Really glad Zynxis shared the cheat sheet for the dashboard.,positive
+212,Jamal,5,project,"Spent most of the week stuck on the testing suite before I could even start. The API integration project was frustrating, wasted a lot of time because of it.",negative
+213,Wei,7,resources,Practice problems felt confusing compared to previous weeks tbh,negative
+214,Carlos,5,mentor,"Wish my mentor dug into async/await more instead of just pretty standard stuff. Didn't get much out of the mentor meeting, left me more confused than before.",negative
+215,Jun,6,resources,The wiki pages for the data pipeline were genuinely helpful even tho no video tutorials were shared untill halfway through the week.,positive
+216,Faraz,6,resources,The documentation had errors that cost me hours on the dashboard,negative
+217,Olivia,1,overall,"Not a great week, had to figure it out on my own altho week 1 was excellent, learned more than I expected.",positive
+218,Parul,5,overall,"It was whatever, nothing out of the ordinary. Just a typical week at the internship.",neutral
+219,Elena,1,resources,"The cheat sheet were fine for the deployment process, nothing special",neutral
+220,Viktor,1,mentor,"Loved getting extra time with my mentor, really made a difference.",positive
+221,Hassan,8,resources,Practice problems saved me so much time on the data pipeline,positive
+222,Tariq,3,project,"Project this week was awesome, felt like actual dev work. Project this week was well-organized, felt like actual dev work.",positive
+223,Zainab,3,resources,The documentation on the dashboard was actually realy satisfying even tho no documentation were shared until halfway through the week.,positive
+224,Wei,7,resources,The reading material had errors that cost me hours on the onboarding flow.,negative
+225,Chen,8,resources,The documentation on REST endpoints was actually realy solid.,positive
+226,Usman,2,mentor,"Didn't get much out of the mentor meeting, left me more confused than before.",negative
+227,Viktor,3,overall,"Week 3 was surprisingly good, felt genuinely supported but feeling a bit lost about how this week went.",negative
+228,Tara,3,overall,Just a typical week at the internship,neutral
+229,Mina,5,project,"The CI setup project was really solid, everything just clicked.",positive
+230,Saad,8,resources,The reading material had errors that cost me hours on the scraping script but really glad Zynxis shared reading material for the reporting tool ngl,negative
+231,Olivia,4,project,"Did the recommendation engine project, no real surprises. Session happened, project submitted, moving on.",neutral
+232,Uma,6,resources,"Resources this week were great, everything just clicked honestly",positive
+233,Ali,2,project,Project scope for the auth module felt surprisingly good this week.,positive
+234,Farhan,2,project,"The async/await project was rough, had to figure it out on my own",negative
+235,Adeel,7,project,"Spent most of the week stuck on design patterns before I could even start however, the API integration project gave me a real sense of ownership.",positive
+236,Usman,8,mentor,Honestly this week's's mentor is the best part of this internship,positive
+237,Tariq,6,mentor,"Met with my mentor, no real surprises",neutral
+238,Yasmin,8,mentor,"Great mentoring session, realy made a difference. My mentor gave me realy super clear feedback on the auth module",positive
+239,Sara,2,resources,"Practice problems were fine for the deployment process, nothing special. Sample code were okay, used some of them tbh",neutral
+240,Sara,4,overall,"Unclear week, left me more confused than before",negative
+241,Bilal,8,overall,"Good moments and some slow parts, so it balances out. Good moments and some slow parts, so it balances out",neutral
+242,Omar,5,project,"The frontend redesign project was neither hard nor easy, just average.",neutral
+243,Sara,4,resources,"The recorded sessions for the data pipeline were genuinely well-organized but reading material for database schema work were unclear, felt pretty unsupported not gonna lie",positive
+244,Tariq,1,overall,"Overall excellent week, learned a lot about the API integration however, not a great week, nobody really followed up.",positive
+245,Sara,6,mentor,Nothing special about the mentor call this week.,neutral
+246,Jamal,7,overall,"It was whatever, nothing out of the ordinary tbh",neutral
+247,Zainab,3,resources,"Recorded sessions were fine for the scraping script, nothing special lol",neutral
+248,Priya,5,mentor,Wish my mentor dug into database schema work more instead of just went through the motions.,negative
+249,Lina,2,resources,"The slack channel felt pretty rough compared to previous weeks however, the wiki pages for the deployment process were genuinely surprisingly good ngl",positive
+250,Ali,2,project,Proud of what I built for design patterns this week although couldn't finish the dashboard becuase nobody responded when I asked for help honestly,positive
+251,Meera,3,resources,"Recorded sessions for the data pipeline were a letdown, nobody really followed up altho the documentation on async/await was actually really satisfying",negative
+252,Fatima,8,resources,The practice problems for the onboarding flow were genuinely super clear.,positive
+253,Ali,5,overall,"Not a great week, had to figure it out on my own.",negative
+254,Sami,8,project,"Project this week was great, felt like actual dev work however, couldn't finish design patterns because the API we needed was down for two days.",negative
+255,Kavya,5,resources,"Resources this week were fine, nothing memorable. Resources this week were fine, nothing memorable tbh",neutral
+256,Rashid,3,overall,"Average week, nothing special.",neutral
+257,Lina,4,mentor,"Met with my mentor, no real surprises.",neutral
+258,Meera,6,mentor,"Mentor session happened, went through the motions. Met with my mentor, no real surprises lol",neutral
+259,Yasmin,6,overall,"Week 8 was pretty rough, the API we needed was down for two days.",negative
+260,Arham,4,project,Struggled with the reporting tool all week becuase the setup alone took most of the week lol,negative
+261,Usman,7,overall,"Overall super clear week, learned a lot about the reporting tool.",positive
+262,Chen,2,resources,"No recorded sessions were shared untill halfway through the week however, the reading material for the onboarding flow were genuinely helpful.",positive
+263,Yasmin,8,mentor,"Nothing special about the mentor call this week. Met with my mentor, attended everything, did the work",neutral
+264,Omar,6,mentor,"Great mentoring session, really made a difference. Great mentoring session, learned more than I expected ngl",positive
+265,Hassan,4,mentor,"Mentor session happened, no real surprises honestly",neutral
+266,Adeel,8,overall,"Solid week, everything just clicked ngl",positive
+267,Ali,7,overall,"Solid week, realy made a difference honestly",positive
+268,Uma,3,overall,"Not a great week, felt pretty unsupported even though Awesome week overall, learned more than I expected",positive
+269,Jun,8,overall,"Things were alright, pretty standard stuff. Good moments and some slow parts, so it balances out lol",neutral
+270,Xia,4,project,Spent most of the week stuck on the dashboard before I could even start,negative
+271,Lina,6,resources,"Sample code were okay, used some of them",neutral
+272,Nadia,3,project,"Proud of what I built for the scraping script this week altho the REST endpoints project was unclear, nobody really followed up.",negative
+273,Greta,5,mentor,Honestly our's mentor is the best part of this internship.,positive
+274,Priya,1,overall,"Fantastic week overall, learned more than I expected.",positive
+275,Xia,5,overall,"Overall genuinely helpful week, learned a lot about the onboarding flow although not a great week, wasted a lot of time becuase of it lol",positive
+276,Arham,2,overall,"Feeling realy proud after this week although Poorly planned week, left me more confused than before not gonna lie",positive
+277,Bilal,3,overall,Starting to question if this internship is worth it because nobody responded when I asked for help.,negative
+278,Usman,2,resources,The documentation on async/await was actually great but no the cheat sheet were shared until halfway through the week.,negative
+279,Ahsan,4,overall,Starting to question if this internship is worth it becuase the setup alone took most of the week honestly,negative
+280,Mina,3,mentor,Wish my mentor dug into REST endpoints more instead of just pretty standard stuff even though mentor walked through the onboarding flow step by step and it finally clicked.,positive
+281,Hamza,5,mentor,"Mentor session happened, no real surprises",neutral
+282,Viktor,8,project,"The data pipeline project felt frustrating, nobody realy followed up honestly",negative
+283,Qasim,5,overall,"Solid week, learned more than I expected. Solid week, realy made a difference",positive
+284,Wei,7,project,"The data pipeline project was neither hard nor easy, just average. Project was okay, pretty standard stuff",neutral
+285,Omar,4,project,"The deployment process project felt confusing, wasted a lot of time because of it honestly",negative
+286,Sami,4,project,"Did the design patterns project, nothing out of the ordinary. Did the onboarding flow project, attended everything, did the work tbh",neutral
+287,Omar,4,overall,"This internship keeps getting better, week 7 was good even tho feeling a bit lost about how this week went honestly",positive
+288,Tariq,3,mentor,"The mentoring session felt rough, left me more confused than before.",negative
+289,Emeka,7,resources,Really glad Zynxis shared the wiki pages for the scraping script even though recorded sessions felt rough compared to previous weeks,negative
+290,Liam,2,project,"Session happened, project submitted, moving on. Did the deployment process project, attended everything, did the work.",neutral
+291,Mina,1,resources,Sample code felt confusing compared to previous weeks even tho really glad Zynxis shared video tutorials for the recommendation engine lol,negative
+292,Greta,8,mentor,"Honestly the mentor is the best part of this internship although didn't get much out of the mentor meeting, nobody really followed up",positive
+293,Kira,5,mentor,Nothing special about the mentor call this week ngl,neutral
+294,Sara,4,resources,"Resources this week were excellent, left feeling way more confident. Resources this week were great, realy made a difference.",positive
+295,Nadia,1,mentor,Really appreciated how my mentor broke down why the tests were failing. Shoutout to my mentor for explaining things twice patiently not gonna lie,positive
+296,Fatima,2,project,Struggled with database schema work all week because the timeline was way too tight but proud of what I built for the CI setup this week not gonna lie,positive
+297,Waqar,3,mentor,My mentor gave me realy great feedback on the auth module even though wish my mentor dug into the recommendation engine more instead of just pretty standard stuff,positive
+298,Qasim,3,resources,Really glad Zynxis shared reading material for the data pipeline ngl,positive
+299,Sara,5,overall,"Feeling really motivated after this week however, not a great week, had to figure it out on my own not gonna lie",negative
+300,Jamal,4,overall,Feeling really energized after this week.,positive
