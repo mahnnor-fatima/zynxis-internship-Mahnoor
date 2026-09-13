@@ -4,6 +4,8 @@ A Streamlit web app that serves the Week 3 Random Forest classification model,
 predicting whether an intern will be a high performer / get placed based on
 technical, project, and behavioral metrics.
 
+![App Screenshot](app_screenshot.png)
+
 ## Model
 
 - **Algorithm**: Random Forest Classifier (`n_estimators=100`, `max_depth=7`, `min_samples_split=4`)
@@ -21,8 +23,11 @@ zynxis_deployment/
 ├── train_model.py                  # Reproduces the Week 3 pipeline, saves model artifacts
 ├── zynxis_intern_performance.csv   # Training data (500 rows)
 ├── classification_model.ipynb      # Original Week 3 notebook
+├── app_screenshot.png              # UI preview screenshot
 ├── requirements.txt
 ├── README.md
+├── .streamlit/
+│   └── config.toml                 # Streamlit theme config
 └── (generated after running train_model.py)
     ├── best_model_random_forest.pkl
     ├── scaler.pkl

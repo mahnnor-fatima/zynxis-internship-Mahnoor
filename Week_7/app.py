@@ -12,7 +12,66 @@ import streamlit as st
 
 st.set_page_config(
     page_title="Zynxis Intern Performance Predictor",
+    page_icon="⚡",
     layout="centered",
+)
+st.markdown(
+    """
+    <style>
+    @import url('https://fonts.googleapis.com/css2?family=Alegreya:wght@700;800;900&display=swap');
+    
+    /* App Background */
+    .stApp, [data-testid="stAppViewContainer"], .main {
+        background-color: #B0A999 !important;
+    }
+    
+    /* Headings in Alegreya Font (Extra Bold) */
+    h1, h2, h3, h4, h5, h6, 
+    [data-testid="stHeader"], 
+    .stMarkdown h1, .stMarkdown h2, .stMarkdown h3,
+    div[data-testid="stSubheader"] {
+        font-family: 'Alegreya', serif !important;
+        font-weight: 900 !important;
+        color: #595E48 !important;
+        letter-spacing: -0.5px;
+    }
+    
+    /* General Labels & Text */
+    p, label, .stMarkdown, div[data-testid="stWidgetLabel"] p {
+        color: #071A35 !important;
+    }
+    
+    /* Slider Handle (Thumb) */
+    div[data-baseweb="slider"] div[role="slider"] {
+        background-color: #472F2B !important;
+        border: 2px solid #ffffff !important;
+        box-shadow: 0 0 8px rgba(71, 47, 43, 0.4) !important;
+    }
+    
+    /* Slider Active Fill Track */
+    div[data-baseweb="slider"] div[style*="background-color"] {
+        background-color: #472F2B !important;
+    }
+    
+    /* Button Styling */
+    .stButton > button {
+        background-color: #472F2B !important;
+        color: #ffffff !important;
+        border: none !important;
+        border-radius: 8px !important;
+        font-weight: 600 !important;
+        box-shadow: 0 4px 12px rgba(71, 47, 43, 0.3) !important;
+        transition: all 0.3s ease !important;
+    }
+    .stButton > button:hover {
+        background-color: #32201D !important;
+        color: #ffffff !important;
+        transform: translateY(-2px) !important;
+        box-shadow: 0 6px 18px rgba(71, 47, 43, 0.5) !important;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
 )
 
 NUM_COLS = [
@@ -57,8 +116,7 @@ def main():
 
     st.title(" Zynxis Intern Performance Predictor")
     st.markdown(
-        "Predict whether an intern is likely to be a ** placed** "
-        "based on technical, project, and behavioral metrics.\n\n"
+        "Predict whether an intern is likely to be placed based on technical, project, and behavioral metrics.\n"
         
     )
 
