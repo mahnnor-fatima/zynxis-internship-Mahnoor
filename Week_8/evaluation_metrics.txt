@@ -1,0 +1,15 @@
+=== Test Set Metrics ===
+Accuracy:  0.6900
+Precision: 0.7460
+Recall:    0.7581
+F1 Score:  0.7520
+ROC-AUC:   0.7101
+
+                precision    recall  f1-score   support
+
+ Needs Support       0.59      0.58      0.59        38
+High Performer       0.75      0.76      0.75        62
+
+      accuracy                           0.69       100
+     macro avg       0.67      0.67      0.67       100
+  weighted avg       0.69      0.69      0.69       100

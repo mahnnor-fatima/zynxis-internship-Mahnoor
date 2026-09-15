@@ -3,3 +3,7 @@
 # Ignore creation directory in Week_1
 Week_1/creation/
 creation/
+
+# Ignore virtual environments
+venv/
+Week_8/venv/
